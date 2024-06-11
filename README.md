@@ -1,16 +1,17 @@
 CSSS Git Tutorial
 =================
+54
 
 ## What is Git?
 Git is a *Version Control Software* that allows you to save and maintain a history of your work. You can also revert to previous stages of your history, and make multiple branches of that history for experimentation.
-
+5454
 Git is great for projects that have multiple contributors, because the history of all contributions is transparent.
 
 We recommend you to follow [this guide](https://pcottle.github.io/learnGitBranching)
 and complete the first three tasks before following with the
 tutorial below.
 In this tutorial you're going to learn:
-
+1234
 - How to install/configure git
 - Git basics (diffs, commits, etc.)
 - Basic git commands on the command-line
