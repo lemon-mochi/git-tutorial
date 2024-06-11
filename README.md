@@ -230,3 +230,13 @@ in your co-op placements and other real job placements. Good luck!
 ### Any Questions?
 If you have any questions, feel free to ask us! Click on "Issues" on
 the right and open a new issue.
+
+
+
+lkadfjdlkfjadlfkjd fklfjalkfjdlfkjad fkadfioej;lkdfj;ldkfjads;lfkjaflkjdflkdj
+dfklafjoewri dfkljdf;lakfjoqeirja
+fadlfkjaeljdf alkdfja
+efsdlkfja;dioqerkldas fqroeitasklfa
+ gaklgjoierphqoijeflkajgoqijakdfj
+ grqjelakgjqoeija;lkfjal;kfdaj
+ git tutorial
